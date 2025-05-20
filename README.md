@@ -1,4 +1,5 @@
-# MetaAR
-## Meta AR Developer Professional Certificate
+# METAAR
+
+## Meta AR Developer Professional Certificate ( 7 course series )
 
 Augmented Reality is projected to be a $88 billion industry by 2026. This program was designed by experts at Meta and will help you master AR development skills by covering nuances of AR in marketing, web AR, and AR in games. You’ll get hands-on experience with popular tools including Unity, Spark AR, and Playcanvas, using JavaScript and C#. This program is designed for computer science graduates, software developers, web developers, 3D artists, or game developers who want to advance their skill set for the in-demand field of AR Development. You will learn tools and concepts like Spark AR Fundamentals, game creation in Spark AR, HTML5 WebGL, Javascript in PlayCanvas, AR with PlayCanvas, asset creation and integration in Unity, C# Basics in Unity, creation and deployment on an AR Game using Vuforia and more. By the end of the program, you will be able to: Describe AR’s defining characteristics, affordances and capabilities Create content in Meta Spark and push it to Instagram using Meta Spark Hub Create a web AR application using PlayCanvas Write and debug simple Unity scripts Create a Unity AR game using C# in the AR Foundation and Vuforia 
